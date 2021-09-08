@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmanSingh200
-- 👀 I’m interested in Machine Learning Data Science, Deep Learning and all different kind of algorithm based on ML. 
-- 🌱 I’m currently learning OpenCV, DeepLearning and Image Processing
-- 💞️ I’m looking to collaborate on Machine Learning and Data Science Projects 
+- 👀 I’m interested in Android Development, Machine Learning Data Science, Deep Learning and all different kind of algorithm based on ML. 
+- 🌱 I’m currently learning Android Development, OpenCV, DeepLearning and Image Processing 
+- 💞️ I’m looking to collaborate on Android and Java Projects
 - 📫 Reach me on my email:- amansingh200032@gmail.com and I would love to work on similar niches. 
