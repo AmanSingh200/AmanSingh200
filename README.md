@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AmanSingh200
-- 👀 I’m interested in Android Development, Machine Learning Data Science, Deep Learning and all different kind of algorithm based on ML. 
-- 🌱 I’m currently learning Android Development, OpenCV, DeepLearning and Image Processing 
-- 💞️ I’m looking to collaborate on Android and Java Projects
+- 👀 I’m interested in Web Development, Machine Learning Data Science, Neural Network , Deep Learning and all different kind of algorithm based on ML. 
+- 🌱 I’m currently learning NodeJS, ReactJS.
+- 💞️ I’m looking to collaborate on FrontEnd Projects
 - 📫 Reach me on my email:- amansingh200032@gmail.com and I would love to work on similar niches. 
+- Also you can connect with me on https://www.linkedin.com/in/aman-singh-579510190/ and https://leetcode.com/amansingh200032/
